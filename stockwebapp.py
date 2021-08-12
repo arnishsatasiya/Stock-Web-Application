@@ -9,9 +9,7 @@ st.write("""
 **Visually** show data on a stock! 
 """)
 
-# image = Image.open(
-#     "C:/Users/Arnish Satasiya/MY PROJECTS/python project/home.jpg")
-# st.image(image, use_column_width=True)
+
 
 # create a sidebar header
 st.sidebar.header("User Input")
